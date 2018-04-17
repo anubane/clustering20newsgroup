@@ -1,5 +1,5 @@
 ## Clustering 20 newsgroup data
-Applying K-Means algorithm to the 20 newsgroup data (link: )
+Applying K-Means algorithm to the 20 newsgroup data (link: http://qwone.com/~jason/20Newsgroups/)
 * **Step 1**: From the already classified data, I have selected 30 from each group and mixed them under directory `workdata`
 * **Step 2**: Using tf-idf model, extract features for the documents and form the document vectors
 * **Step 3**: Apply K-Means algo to these n-dim doc vectors
